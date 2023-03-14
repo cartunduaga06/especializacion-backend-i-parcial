@@ -8,7 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/cartunduaga06/especializacion-backend-i-parcial
+          uri: 'https://github.com/cartunduaga06/confifuracionesParcial1Backend.git'
           default-label: main
           force-pull: true
-          search-paths: configuration
